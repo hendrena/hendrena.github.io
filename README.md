@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 ## Resume
 - [Resume](https://docs.google.com/document/d/1rr3UOYaCRloW4LKdanJd8W7zvIdra_pt4NBt2YPu-hc/preview)
 
-- {{<video https://drive.google.com/file/d/1hQKyJauMRdD2mZ5ATa_qun3NEca3iRqR/view?usp=drive_link>}}
+- [video of Rocketry Club](https://drive.google.com/file/d/1hQKyJauMRdD2mZ5ATa_qun3NEca3iRqR/view?usp=drive_link)
