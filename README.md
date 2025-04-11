@@ -10,3 +10,9 @@
 hendrena/hendrena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## external links
+- [LinkedIn profile](https://linkedin.com/in/angelina-hendren-600990221/)
+  
+
+
+
