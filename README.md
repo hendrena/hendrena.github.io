@@ -12,7 +12,10 @@ You can click the Preview link to take a look at your changes.
 --->
 ## external links
 - [LinkedIn profile](https://linkedin.com/in/angelina-hendren-600990221/)
-  
+
+
+## Certificates
+- [Resume](https://docs.google.com/document/d/1rr3UOYaCRloW4LKdanJd8W7zvIdra_pt4NBt2YPu-hc/preview)
 
 
 
