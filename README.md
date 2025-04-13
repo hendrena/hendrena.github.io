@@ -25,4 +25,11 @@ You can click the Preview link to take a look at your changes.
 ## Projects
 - Bank of America SONAR Project
 - [Low-Fidelity Prototype](
-* [figma demo]
+- [figma demo]
+
+- BIS Senior Capstone
+- [Stakeholder Questionnaire](https://docs.google.com/forms/d/16c9q1oq0BiFJUO2lDfFy4wB4tgBZ781SL1SmuA4JExA/preview)
+
+
+## Papers
+- [Policy Memo](file:///C:/Users/hendrena/Downloads/Angelina%20Hendren%20Policy%20Memo.pdf)
