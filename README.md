@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Certification
 
-![alt text](https://drive.google.com/file/d/1l2znx8I5TeVxrWNwDHYU2K8Tpy3f8GbD/view?usp=sharing)
+![Alt text](CertificateOfCompletion_Thinking Creatively (1)-1.png)
 
 
 ## Projects
