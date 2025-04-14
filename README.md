@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 ## Certification
 
 ![Certificate](https://raw.githubusercontent.com/hendrena/hendrena.github.io/main/CertificateOfCompletion_Thinking%20Creatively%20(1)-1.png)
-![Certificate](https://raw.githubusercontent.com/hendrena/hendrena.github.io/main/CertificateOfCompletion_Excel%20Essential%20Training%20Microsoft%20365%202018-1.png)
+![Certificate](https://raw.githubusercontent.com/hendrena/hendrena.github.io/main/CertificateOfCompletion_Excel Essential Training Microsoft 365 2018-1.png)
 ![Certificate]()
 
 
