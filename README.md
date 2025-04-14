@@ -19,6 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Certification
+![alt text](https://github.com/hendrena/hendrena.github.io/blob/main/CertificateOfCompletion_Thinking%20Creatively.pdf)
+
 
 ## Projects
 - Bank of America SONAR Project
