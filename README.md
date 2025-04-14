@@ -19,7 +19,6 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Certification
-[![Caption](elephant.png)](https://quarto.org)
 
 ## Projects
 - Bank of America SONAR Project
