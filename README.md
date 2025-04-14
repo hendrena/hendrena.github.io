@@ -24,8 +24,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Projects
 - Bank of America SONAR Project
-    +[SONAR Pitch Deck](https://www.canva.com/design/DAGiG_fzV78/RtJgbhlNEQdJgSvssQrrxQ/view?utm_content=DAGiG_fzV78&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h66bf2c96e9)
-    +[Low-Fidelity Prototype Figma Demo](https://www.figma.com/proto/fvUT6xxKoj85bTSZZ9zs6p/SONAR-WIREFRAME?node-id=2-3&p=f&t=QoymYs54BjSlaRTL-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=32%3A2&show-proto-sidebar=1)
+    :[SONAR Pitch Deck](https://www.canva.com/design/DAGiG_fzV78/RtJgbhlNEQdJgSvssQrrxQ/view?utm_content=DAGiG_fzV78&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h66bf2c96e9)
+    [Low-Fidelity Prototype Figma Demo](https://www.figma.com/proto/fvUT6xxKoj85bTSZZ9zs6p/SONAR-WIREFRAME?node-id=2-3&p=f&t=QoymYs54BjSlaRTL-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=32%3A2&show-proto-sidebar=1)
 
 - BIS Senior Capstone Project
     +[Stakeholder Questionnaire](https://docs.google.com/forms/d/16c9q1oq0BiFJUO2lDfFy4wB4tgBZ781SL1SmuA4JExA/preview)
