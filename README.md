@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Certification
 
-<embed src="https://github.com/hendrena/hendrena.github.io/blob/main/CertificateOfCompletion_Excel%20Essential%20Training%20Microsoft%20365%202018.pdf" type="application/pdf">
+- <embed src="https://github.com/hendrena/hendrena.github.io/blob/main/CertificateOfCompletion_Excel%20Essential%20Training%20Microsoft%20365%202018.pdf" type="application/pdf">
 
 
 ## Projects
