@@ -19,8 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Certification
-![bg]([Screenshot 2025-04-13 203222])
 
+<embed src="CertificateOfCompletion_Excel Essential Training Microsoft 365 2018.pdf" type="application/pdf">
 
 
 ## Projects
