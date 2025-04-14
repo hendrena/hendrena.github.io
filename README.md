@@ -21,6 +21,7 @@ You can click the Preview link to take a look at your changes.
 ## Certification
 ![Certificate](https://raw.githubusercontent.com/hendrena/hendrena.github.io/main/CertificateOfCompletion_Thinking%20Creatively%20(1)-1.png)
 
+
 ## Projects
 - Bank of America SONAR Project
     + [SONAR Pitch Deck](https://www.canva.com/design/DAGiG_fzV78/RtJgbhlNEQdJgSvssQrrxQ/view?utm_content=DAGiG_fzV78&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h66bf2c96e9)
@@ -29,13 +30,18 @@ You can click the Preview link to take a look at your changes.
 - BIS Senior Capstone Project
     + [Stakeholder Questionnaire](https://docs.google.com/forms/d/16c9q1oq0BiFJUO2lDfFy4wB4tgBZ781SL1SmuA4JExA/preview)
 
+
 - [One Way To Save Richmond’s Housing Crisis](https://www.canva.com/design/DAGBrkBQdTc/QC3oBT8Ar5vvzezjiSjaQg/view?utm_content=DAGBrkBQdTc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf0cdb60f0f)
+
 
 - [The Fan](https://www.canva.com/design/DAGCfm5s958/goza_H4hFk6cTEWotIiT7w/view?utm_content=DAGCfm5s958&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1a35f31fe4)
 
+
 - [Ram Rocketry Test Stand Video](https://www.canva.com/design/DAGdbYPWEN8/7T3PCVF9gslGCSRJUr787Q/watch?utm_content=DAGdbYPWEN8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd571a8dd99)
 
+
 - [Ram Rocketry Hybrid Engine Test]
+
   
 ## Papers
 - [Policy Memo](https://docs.google.com/document/d/1_RT3exGsPpzhGaGxdEGyKjyVnm0lcl05DT_3-amO3hE/edit?tab=t.0)
