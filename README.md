@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Certification
 
-![Alt text](CertificateOfCompletion_Thinking Creatively (1)-1.png)
+![Certificate](https://raw.githubusercontent.com/hendrena/hendrena.github.io/main/CertificateOfCompletion_Thinking%20Creatively%20(1)-1)
 
 
 ## Projects
