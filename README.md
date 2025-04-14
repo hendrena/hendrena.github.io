@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Certification
-![alt text](https://www.linkedin.com/learning/certificates/b58ee141641259fe1e916aafba55e8ee0bbd2dedd34d29e0e0be246e29271574?trk=share_certificate)
+![bg](https://github.com/hendrena/hendrena.github.io/blob/main/CertificateOfCompletion_Thinking%20Creatively.pdf)
 
 
 ## Projects
