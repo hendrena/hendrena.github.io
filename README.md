@@ -24,12 +24,14 @@ You can click the Preview link to take a look at your changes.
 
 ## Projects
 - Bank of America SONAR Project
-- [Low-Fidelity Prototype](
-- [Figma Demo]
+- [SONAR Pitch Deck](https://www.canva.com/design/DAGiG_fzV78/RtJgbhlNEQdJgSvssQrrxQ/view?utm_content=DAGiG_fzV78&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h66bf2c96e9)
+- [Low-Fidelity Prototype Figma Demo](https://www.figma.com/proto/fvUT6xxKoj85bTSZZ9zs6p/SONAR-WIREFRAME?node-id=2-3&p=f&t=QoymYs54BjSlaRTL-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=32%3A2&show-proto-sidebar=1)
 
 - BIS Senior Capstone Project
 - [Stakeholder Questionnaire](https://docs.google.com/forms/d/16c9q1oq0BiFJUO2lDfFy4wB4tgBZ781SL1SmuA4JExA/preview)
 
 - [One Way To Save Richmond’s Housing Crisis](https://www.canva.com/design/DAGBrkBQdTc/QC3oBT8Ar5vvzezjiSjaQg/view?utm_content=DAGBrkBQdTc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf0cdb60f0f)
+
+- [The Fan](https://www.canva.com/design/DAGCfm5s958/goza_H4hFk6cTEWotIiT7w/view?utm_content=DAGCfm5s958&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1a35f31fe4)
 ## Papers
 - [Policy Memo](https://docs.google.com/document/d/1_RT3exGsPpzhGaGxdEGyKjyVnm0lcl05DT_3-amO3hE/edit?tab=t.0)
