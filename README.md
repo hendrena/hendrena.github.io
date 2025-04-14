@@ -25,11 +25,11 @@ You can click the Preview link to take a look at your changes.
 ## Projects
 - Bank of America SONAR Project
 - [Low-Fidelity Prototype](
-- [figma demo]
+- [Figma Demo]
 
-- BIS Senior Capstone
+- BIS Senior Capstone Project
 - [Stakeholder Questionnaire](https://docs.google.com/forms/d/16c9q1oq0BiFJUO2lDfFy4wB4tgBZ781SL1SmuA4JExA/preview)
 
-
+- [One Way To Save Richmond’s Housing Crisis](https://www.canva.com/design/DAGBrkBQdTc/QC3oBT8Ar5vvzezjiSjaQg/view?utm_content=DAGBrkBQdTc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf0cdb60f0f)
 ## Papers
-- [Policy Memo](file:///C:/Users/hendrena/Downloads/Angelina%20Hendren%20Policy%20Memo.pdf)
+- [Policy Memo](https://docs.google.com/document/d/1_RT3exGsPpzhGaGxdEGyKjyVnm0lcl05DT_3-amO3hE/edit?tab=t.0)
