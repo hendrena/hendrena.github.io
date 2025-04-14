@@ -19,7 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Certification
-![bg](https://github.com/hendrena/hendrena.github.io/blob/main/CertificateOfCompletion_Thinking%20Creatively.pdf)
+![bg](![Screenshot 2025-04-13 203222]
+
 
 
 ## Projects
