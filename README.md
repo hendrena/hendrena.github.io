@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 - [Policy Memo - Optimizing Benefits from Globalization:  How can Syria benefit from globalization](https://docs.google.com/document/d/1_RT3exGsPpzhGaGxdEGyKjyVnm0lcl05DT_3-amO3hE/edit?tab=t.0)
 
 
-- [Research Papers]
+- Research Papers
     + [Impacts and barriers women face when participating in state and local judicial roles](https://docs.google.com/document/d/1uMCOpeW14Auv2bnjfB57UfzRqdz4MQdQ9XSIhdExedg/edit?usp=sharing)
     + [Exploring impacts of Booker T Washington and W.E.B Dubois](https://docs.google.com/document/d/1vyrB6XMTKbGHd6qv55GpqAdwuqyk7K7J4OS65AG7B9M/edit?usp=sharing)
     + [Black liberation tacitics during the Civil Rights movement and modern day](https://docs.google.com/document/d/1thmgbS2rAIp_bUxQg2JeCEIep_x-HoBaJ5o_PLh9DdY/edit?usp=sharing)
