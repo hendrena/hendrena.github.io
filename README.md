@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Certification
 ![Certificate](https://raw.githubusercontent.com/hendrena/hendrena.github.io/main/CertificateOfCompletion_Thinking%20Creatively%20(1)-1.png)
-1[Certificate}(https://media.licdn.com/dms/image/v2/D4E22AQFtuimaqivcAw/feedshare-shrink_1280/feedshare-shrink_1280/0/1707710876648?e=1769644800&v=beta&t=35XPYjHR982ENaM8sQ7gq9DvMSNEJ_G4q2K3rGXtTmQ)
+![Certificate](https://github.com/hendrena/hendrena.github.io/blob/71945987d9a17b04db2bbf26ead812da76ebf467/CertificateOfCompletion_Excel%20Essential%20Training%20Microsoft%20365%202018.pdf)
 
 
 ## Projects
