@@ -1,9 +1,9 @@
 ## Bio
-- 👋 Hi, I’m Angelina Hendren and I am a senior at Virginia Commonwealth University (VCU).
-- 👀 I’m interested in exploring opportunities within and beyond VCU.
+- 👋 Hi, I’m Angelina Hendren and I am a Virginia Commonwealth University(VCU) alum, looking to continue my educational journey!
+- 👀 I’m interested in exploring opportunities within and beyond VCU, and working with diverse groups of people.
 - 🌱 I’m currently studying Interdisciplinary Studies with a concentration in Business Innovation and Urban Policy.
-- 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me via email at hendrena@vcu.edu.
+- 💞️ I’m looking to collaborate on projects, explore diverse opportunities, and develop professional relationships.
+- 📫 You can reach me via email at **hendrena@vcu.edu**.
 - 😄 Pronouns: she/her/they
 - ⚡ Fun fact: I like fish!
 
@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Certification
 ![Certificate](https://raw.githubusercontent.com/hendrena/hendrena.github.io/main/CertificateOfCompletion_Thinking%20Creatively%20(1)-1.png)
+1[Certificate}(https://media.licdn.com/dms/image/v2/D4E22AQFtuimaqivcAw/feedshare-shrink_1280/feedshare-shrink_1280/0/1707710876648?e=1769644800&v=beta&t=35XPYjHR982ENaM8sQ7gq9DvMSNEJ_G4q2K3rGXtTmQ)
 
 
 ## Projects
