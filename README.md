@@ -112,20 +112,20 @@ These projects aren't specifically related to my degree, but are small projects 
 
 
 
-[Valentines Invitation](https://www.canva.com/design/DAF6LnakcXo/G0G-CvAnblyXjoBMj3YTdg/edit?utm_content=DAF6LnakcXo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 <img width="500" height="1000" alt="Pink Illustrative Happy Valentine&#39;s Day Your Story" src="https://github.com/user-attachments/assets/b65af3cd-f7f4-4058-8513-b33b8514b383" />
 
+[Valentines Invitation](https://www.canva.com/design/DAF6LnakcXo/G0G-CvAnblyXjoBMj3YTdg/edit?utm_content=DAF6LnakcXo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
-[Halloween Invitation](https://www.canva.com/design/DAFwQfjSteg/vsu9b8YFHTc-je7NJJ2O7A/edit?utm_content=DAFwQfjSteg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <img width="500" height="1000" alt="Come at your own risk" src="https://github.com/user-attachments/assets/912d28e2-1e2b-4bb9-8e72-65a0ed26050a" />
 
+[Halloween Invitation](https://www.canva.com/design/DAFwQfjSteg/vsu9b8YFHTc-je7NJJ2O7A/edit?utm_content=DAFwQfjSteg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
 <img width="500" height="1000" alt="Thanksgiving Potluck" src="https://github.com/user-attachments/assets/ab331d94-dd84-4fbb-b6dd-527bd50a0fe1" />
+
 [Thanksgiving Potluck Invitation](https://www.canva.com/design/DAFxi85by7I/bg9gBIbaW5f1Oe4fcdhPgw/edit?utm_content=DAFxi85by7I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
@@ -138,6 +138,7 @@ These projects aren't specifically related to my degree, but are small projects 
 
 <img width="500" height="1000" alt="INNO STREET DEVELOPMENT PLAN (1)" src="https://github.com/user-attachments/assets/4465e9fb-aa59-4d5a-b806-4d3874332288" />
 <img width="500" height="1000" alt="INNO STREET DEVELOPMENT PLAN (2)" src="https://github.com/user-attachments/assets/141497b3-939b-40b4-9530-8cc106036a7a" />
+
 [Street Development Plan - VCU/Richmond Neighborhood accessibility outline](https://www.canva.com/design/DAGDVQ8xIZk/yP7AWTxhQDHHgZczz-PxZQ/edit?utm_content=DAGDVQ8xIZk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
