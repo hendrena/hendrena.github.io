@@ -102,7 +102,7 @@ These projects aren't specifically related to my degree, but are small projects 
 
 - [Palebank Village - DND Campain](https://www.canva.com/design/DAGyntDIqxc/HdOy_IOTJp0neo6MCY0q6g/edit?utm_content=DAGyntDIqxc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Floridian](https://www.canva.com/design/DAGAp__NJEg/G1aGMlinRZdXopMMbT0lNQ/edit?utm_content=DAGAp__NJEg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-<img width="1650" height="1275" alt="Floridian" src="https://github.com/user-attachments/assets/f2912595-c8ea-4f33-9559-410f0b1a7516" />
+<img width="500" height="500" alt="Floridian" src="https://github.com/user-attachments/assets/f2912595-c8ea-4f33-9559-410f0b1a7516" />
 
 - [Valentines Invitation](https://www.canva.com/design/DAF6LnakcXo/G0G-CvAnblyXjoBMj3YTdg/edit?utm_content=DAF6LnakcXo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Halloween Invitation](https://www.canva.com/design/DAFwQfjSteg/vsu9b8YFHTc-je7NJJ2O7A/edit?utm_content=DAFwQfjSteg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
