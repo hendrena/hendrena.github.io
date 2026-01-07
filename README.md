@@ -101,31 +101,30 @@ One of my favorite things about univeristy was writing essays. I love exploring 
 These projects aren't specifically related to my degree, but are small projects I've worked on that show my creative design work. Please enjoy my art!
 
 [Palebank Village - DND Campain](https://www.canva.com/design/DAGyntDIqxc/HdOy_IOTJp0neo6MCY0q6g/edit?utm_content=DAGyntDIqxc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 <img width="700" height="938" alt="image" src="https://github.com/user-attachments/assets/42b63069-a7ac-4700-9b15-a02515eab0b0" />
 
-[Floridian](https://www.canva.com/design/DAGAp__NJEg/G1aGMlinRZdXopMMbT0lNQ/edit?utm_content=DAGAp__NJEg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+[Floridian](https://www.canva.com/design/DAGAp__NJEg/G1aGMlinRZdXopMMbT0lNQ/edit?utm_content=DAGAp__NJEg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <img width="500" height="500" alt="Floridian" src="https://github.com/user-attachments/assets/f2912595-c8ea-4f33-9559-410f0b1a7516" />
 
-[Valentines Invitation](https://www.canva.com/design/DAF6LnakcXo/G0G-CvAnblyXjoBMj3YTdg/edit?utm_content=DAF6LnakcXo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+[Valentines Invitation](https://www.canva.com/design/DAF6LnakcXo/G0G-CvAnblyXjoBMj3YTdg/edit?utm_content=DAF6LnakcXo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <img width="500" height="1000" alt="Pink Illustrative Happy Valentine&#39;s Day Your Story" src="https://github.com/user-attachments/assets/b65af3cd-f7f4-4058-8513-b33b8514b383" />
 
-[Halloween Invitation](https://www.canva.com/design/DAFwQfjSteg/vsu9b8YFHTc-je7NJJ2O7A/edit?utm_content=DAFwQfjSteg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+[Halloween Invitation](https://www.canva.com/design/DAFwQfjSteg/vsu9b8YFHTc-je7NJJ2O7A/edit?utm_content=DAFwQfjSteg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <img width="500" height="1000" alt="Come at your own risk" src="https://github.com/user-attachments/assets/912d28e2-1e2b-4bb9-8e72-65a0ed26050a" />
 
-[Thanksgiving Potluck Invitation](https://www.canva.com/design/DAFxi85by7I/bg9gBIbaW5f1Oe4fcdhPgw/edit?utm_content=DAFxi85by7I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+[Thanksgiving Potluck Invitation](https://www.canva.com/design/DAFxi85by7I/bg9gBIbaW5f1Oe4fcdhPgw/edit?utm_content=DAFxi85by7I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <img width="500" height="1000" alt="Thanksgiving Potluck" src="https://github.com/user-attachments/assets/ab331d94-dd84-4fbb-b6dd-527bd50a0fe1" />
 
-[Street Photo edit of W Franklin](https://www.canva.com/design/DAGDw6dHCsY/Cjl7Cyv813Wo-DNbUMswmQ/edit?utm_content=DAGDw6dHCsY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+[Street Photo edit of W Franklin](https://www.canva.com/design/DAGDw6dHCsY/Cjl7Cyv813Wo-DNbUMswmQ/edit?utm_content=DAGDw6dHCsY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <img width="1000" height="500" alt="Street photo edit - W Franklin St" src="https://github.com/user-attachments/assets/0565388b-4f40-4971-9bc2-fc8e6999971a" />
 
-[Street Development Plan - VCU/Richmond Neighborhood accessibility outline](https://www.canva.com/design/DAGDVQ8xIZk/yP7AWTxhQDHHgZczz-PxZQ/edit?utm_content=DAGDVQ8xIZk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+[Street Development Plan - VCU/Richmond Neighborhood accessibility outline](https://www.canva.com/design/DAGDVQ8xIZk/yP7AWTxhQDHHgZczz-PxZQ/edit?utm_content=DAGDVQ8xIZk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <img width="500" height="1000" alt="INNO STREET DEVELOPMENT PLAN (1)" src="https://github.com/user-attachments/assets/4465e9fb-aa59-4d5a-b806-4d3874332288" />
 <img width="500" height="1000" alt="INNO STREET DEVELOPMENT PLAN (2)" src="https://github.com/user-attachments/assets/141497b3-939b-40b4-9530-8cc106036a7a" />
 
