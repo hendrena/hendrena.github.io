@@ -12,19 +12,22 @@ hendrena/hendrena is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ## External Links
-- [LinkedIn profile](https://linkedin.com/in/angelina-hendren-600990221/)
+- Welcome to my portfolio! To get to know me better, please follow me on [LINKEDIN](https://linkedin.com/in/angelina-hendren-600990221/)!
+
 
 ## Resume
-- [Resume](https://docs.google.com/document/d/1rr3UOYaCRloW4LKdanJd8W7zvIdra_pt4NBt2YPu-hc/preview)
+- This document is my full [RESUME](https://docs.google.com/document/d/1rr3UOYaCRloW4LKdanJd8W7zvIdra_pt4NBt2YPu-hc/preview), which includes a variety of experiences:
+    + Educational Experineces
+    + Volunteer Opportunities
+    + Coursework
+    + References 
 
-
-## Certification
-![Certificate](https://raw.githubusercontent.com/hendrena/hendrena.github.io/main/CertificateOfCompletion_Thinking%20Creatively%20(1)-1.png)
-<img width="2200" height="1700" alt="image" src="https://github.com/user-attachments/assets/da34ef65-9908-4594-9718-10bce6245331" />
-<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/fb3000ec-32a4-4c1c-b9ab-abc5b9353802" />
 
 ## Projects
-- Bank of America SONAR Project
+- I've worked on a variety of projects, both solo and collaborative. Throughout these projects, I have gained a variety of different skills including web design, photo and video editing, and research. Please explore my work, leave comments, and ask questions!
+
+
+- Bank of America SONAR Project 
     + [SONAR Pitch Deck](https://www.canva.com/design/DAGiG_fzV78/RtJgbhlNEQdJgSvssQrrxQ/view?utm_content=DAGiG_fzV78&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h66bf2c96e9)
     + [SONAR Final Presentation](https://www.canva.com/design/DAGlNj8AEEg/XcaiNWzoO3zust2ZZe_IUg/edit?utm_content=DAGlNj8AEEg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
     + [SONAR Book](https://www.canva.com/design/DAGkuzESkq4/qd_8VKqtaQEPu4TJX5xg2Q/edit?utm_content=DAGkuzESkq4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
@@ -32,7 +35,8 @@ You can click the Preview link to take a look at your changes.
     + [Medium-Fidelity Prototype Figma Demo](https://www.figma.com/design/fvUT6xxKoj85bTSZZ9zs6p/SONAR-WIREFRAME?node-id=173-69&p=f&t=7siw7DbkTGdYA7pl-0)
     + [High-Fidelity Prototype Figma Demo](https://www.figma.com/design/fvUT6xxKoj85bTSZZ9zs6p/SONAR-WIREFRAME?node-id=0-1&p=f&t=7siw7DbkTGdYA7pl-0)
 
-- BIS Senior Capstone Project - Exploring equitable transportation within Richmond
+
+- BIS Senior Capstone Project: Exploring equitable transportation within Richmond
     + [Final Presentation](https://www.canva.com/design/DAGiA8CVWgg/DkK-xN4SXtbguC2dPTJiMg/edit?utm_content=DAGiA8CVWgg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
     + [Stakeholder Questionnaire](https://docs.google.com/forms/d/16c9q1oq0BiFJUO2lDfFy4wB4tgBZ781SL1SmuA4JExA/preview)
     + [Capstone Step 1: Statement of Topic](https://docs.google.com/document/d/15C-SvmNJGoQwx0qi-72YKsFatTOTH-0dnYNgipKAPXM/edit?usp=sharing)
@@ -62,3 +66,9 @@ You can click the Preview link to take a look at your changes.
     + [Impacts and barriers women face when participating in state and local judicial roles](https://docs.google.com/document/d/1uMCOpeW14Auv2bnjfB57UfzRqdz4MQdQ9XSIhdExedg/edit?usp=sharing)
     + [Exploring impacts of Booker T Washington and W.E.B Dubois](https://docs.google.com/document/d/1vyrB6XMTKbGHd6qv55GpqAdwuqyk7K7J4OS65AG7B9M/edit?usp=sharing)
     + [Black liberation tacitics during the Civil Rights movement and modern day](https://docs.google.com/document/d/1thmgbS2rAIp_bUxQg2JeCEIep_x-HoBaJ5o_PLh9DdY/edit?usp=sharing)
+ 
+
+## Certifications
+![Certificate](https://raw.githubusercontent.com/hendrena/hendrena.github.io/main/CertificateOfCompletion_Thinking%20Creatively%20(1)-1.png)
+<img width="2200" height="1700" alt="image" src="https://github.com/user-attachments/assets/da34ef65-9908-4594-9718-10bce6245331" />
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/fb3000ec-32a4-4c1c-b9ab-abc5b9353802" />
