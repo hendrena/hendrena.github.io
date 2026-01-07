@@ -20,9 +20,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Certification
 ![Certificate](https://raw.githubusercontent.com/hendrena/hendrena.github.io/main/CertificateOfCompletion_Thinking%20Creatively%20(1)-1.png)
-![Certificate](https://raw.githubusercontent.com/hendrena/hendrena.github.io/main/71945987d9a17b04db2bbf26ead812da76ebf467/CertificateOfCompletion_Excel%20Essential%20Training%20Microsoft%20365%202018.pdf)
-
 <img width="2200" height="1700" alt="image" src="https://github.com/user-attachments/assets/da34ef65-9908-4594-9718-10bce6245331" />
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/fb3000ec-32a4-4c1c-b9ab-abc5b9353802" />
 
 ## Projects
 - Bank of America SONAR Project
