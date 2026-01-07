@@ -1,4 +1,4 @@
-```#5BE817
+
 # Bio
 ### 👋 Hi, I’m Angelina Hendren and I am a Virginia Commonwealth University(VCU) alum looking to continue my educational journey!
 ### 👀 I’m interested in exploring opportunities within and beyond VCU and working with diverse groups of people.
@@ -162,4 +162,4 @@ You can click the Preview link to take a look at your changes.
 
 ### Sincerly,
 
-### Angelina Hendren```
+### Angelina Hendren
