@@ -1,11 +1,11 @@
 ## Bio
-- 👋 Hi, I’m Angelina Hendren and I am a Virginia Commonwealth University(VCU) alum, looking to continue my educational journey!
-- 👀 I’m interested in exploring opportunities within and beyond VCU, and working with diverse groups of people.
-- 🌱 I’m currently studying Interdisciplinary Studies with a concentration in Business Innovation and Urban Policy.
-- 💞️ I’m looking to collaborate on projects, explore diverse opportunities, and develop professional relationships.
-- 📫 You can reach me via email at **hendrena@vcu.edu**.
-- 😄 Pronouns: she/her/they
-- ⚡ Fun fact: I like fish!
+👋 Hi, I’m Angelina Hendren and I am a Virginia Commonwealth University(VCU) alum looking to continue my educational journey!
+👀 I’m interested in exploring opportunities within and beyond VCU and working with diverse groups of people.
+🌱 I graduated in Interdisciplinary Studies with a concentration in Business Innovation and Urban Policy.
+💞️ I’m looking to collaborate on projects, explore diverse opportunities, and develop professional relationships.
+📫 You can reach me via email at **hendrena@vcu.edu**.
+😄 Pronouns: she/her/they
+⚡ Fun fact: I like fish!
 
 <!---
 hendrena/hendrena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -99,6 +99,8 @@ One of my favorite things about univeristy was writing essays. I love exploring 
 
 ## Other Projects
 These projects aren't specifically related to my degree, but are small projects I've worked on that show my creative design work. Please enjoy my art!
+
+<https://www.canva.com/design/DAGDVQ8xIZk/yP7AWTxhQDHHgZczz-PxZQ/edit?utm_content=DAGDVQ8xIZk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>
 
 - [Palebank Village - DND Campain](https://www.canva.com/design/DAGyntDIqxc/HdOy_IOTJp0neo6MCY0q6g/edit?utm_content=DAGyntDIqxc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Floridian](https://www.canva.com/design/DAGAp__NJEg/G1aGMlinRZdXopMMbT0lNQ/edit?utm_content=DAGAp__NJEg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
