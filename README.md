@@ -11,12 +11,18 @@
 hendrena/hendrena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Objective Statement
+Aspiring policy researcher committed to studying and advancing innovative policies that benefit local communities in Richmond, with a focus on how social systems both shape and are shaped by the people they serve. Dedicated to strengthening communities across Virginia through collaborative, empathetic engagement with residents, government institutions, and local businesses.
+
+
 ## External Links
-Welcome to my portfolio! To get to know me better, please follow me on [LINKEDIN](https://linkedin.com/in/angelina-hendren-600990221/)!
+Welcome to my portfolio! To stay connected, please follow me on [LINKEDIN](https://linkedin.com/in/angelina-hendren-600990221/)!
 
 
 ## Resume
 This document is my full [RESUME](https://docs.google.com/document/d/1rr3UOYaCRloW4LKdanJd8W7zvIdra_pt4NBt2YPu-hc/preview), which includes a variety of experiences:
+
     + Educational Experineces
     + Volunteer Opportunities
     + Coursework
