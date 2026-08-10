@@ -115,7 +115,8 @@ You can click the Preview link to take a look at your changes.
 # The Planting Days Photo Edits
 ### These photos I've made for my client. I'm taking raw content and adjusting it to give my client's products new looks while giving viewers an idea of what these products could look like in their personal space.
 
-https://new.express.adobe.com/id/urn:aaid:sc:US:4753b2fe-beca-4173-89a8-24b26a5782dc
+<img width="500" height="667" alt="3 ft box in backyard" src="https://github.com/user-attachments/assets/eecdebca-54d8-4560-a753-afb45c2bb307" />
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
