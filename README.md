@@ -107,7 +107,6 @@ You can click the Preview link to take a look at your changes.
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/da34ef65-9908-4594-9718-10bce6245331" />
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/fb3000ec-32a4-4c1c-b9ab-abc5b9353802" />
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/5cf7503b-f32a-432a-944e-33045a511362" />
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
