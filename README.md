@@ -114,7 +114,7 @@ You can click the Preview link to take a look at your changes.
 # The Planting Days Photo Edits
 ### These photos I've made for my client. I'm taking raw content and adjusting it to give my client's products new looks while giving viewers an idea of what these products could look like in their personal space.
 
-<img width="500" height="667" alt="3 ft box in backyard" src="https://github.com/user-attachments/assets/eecdebca-54d8-4560-a753-afb45c2bb307" />
+<img width="300" height="467" alt="3 ft box in backyard" src="https://github.com/user-attachments/assets/eecdebca-54d8-4560-a753-afb45c2bb307" />
 
 <img width="1080" height="1920" alt="Hanging planter in patio (1)" src="https://github.com/user-attachments/assets/dc4a87ba-c1f7-4ff6-a36f-026e498882ca" />
 
