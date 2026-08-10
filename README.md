@@ -6,7 +6,6 @@
 ### 💞️ I’m looking to collaborate on projects, explore diverse opportunities, and develop professional relationships.
 ### 📫 You can reach me via email at **hendrena@vcu.edu**.
 ### 😄 Pronouns: she/her/they
-### ⚡ Fun fact: I like fish!
 
 <!---
 hendrena/hendrena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
