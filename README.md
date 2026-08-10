@@ -112,6 +112,13 @@ You can click the Preview link to take a look at your changes.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# The Planting Days Photo Edits
+### These photos I've made for my client. I'm taking raw content and adjusting it to give my client's products new looks while giving viewers an idea of what these products could look like in their personal space.
+
+https://new.express.adobe.com/id/urn:aaid:sc:US:4753b2fe-beca-4173-89a8-24b26a5782dc
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Other Projects
 ### These projects aren't specifically related to my degree, but are small projects I've worked on that show my creative design work. Please enjoy my art!
 
@@ -155,6 +162,8 @@ You can click the Preview link to take a look at your changes.
 
 <img width="500" height="1000" alt="INNO STREET DEVELOPMENT PLAN (1)" src="https://github.com/user-attachments/assets/4465e9fb-aa59-4d5a-b806-4d3874332288" />
 <img width="500" height="1000" alt="INNO STREET DEVELOPMENT PLAN (2)" src="https://github.com/user-attachments/assets/141497b3-939b-40b4-9530-8cc106036a7a" />
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
