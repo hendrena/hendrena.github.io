@@ -115,17 +115,17 @@ You can click the Preview link to take a look at your changes.
 
 <img width="500" height="767" alt="3 ft box in backyard" src="https://github.com/user-attachments/assets/eecdebca-54d8-4560-a753-afb45c2bb307" />
 
-<img width="680" height="1520" alt="Hanging planter in patio (1)" src="https://github.com/user-attachments/assets/dc4a87ba-c1f7-4ff6-a36f-026e498882ca" />
+<img width="680" height="1320" alt="Hanging planter in patio (1)" src="https://github.com/user-attachments/assets/dc4a87ba-c1f7-4ff6-a36f-026e498882ca" />
 
-<img width="680" height="1520" alt="Untitled - July 21, 2026 at 17 48 11" src="https://github.com/user-attachments/assets/b967570f-7ddf-4a43-a707-98e705825f1a" />
+<img width="680" height="1320" alt="Untitled - July 21, 2026 at 17 48 11" src="https://github.com/user-attachments/assets/b967570f-7ddf-4a43-a707-98e705825f1a" />
 
-<img width="680" height="1520" alt="White hanging planter in bedroom" src="https://github.com/user-attachments/assets/52373239-7b19-4ca4-8a02-592a0b35d048" />
+<img width="680" height="1320" alt="White hanging planter in bedroom" src="https://github.com/user-attachments/assets/52373239-7b19-4ca4-8a02-592a0b35d048" />
 
-<img width="680" height="1520" alt="Red cedar box w flowers in grass" src="https://github.com/user-attachments/assets/702a2827-af0e-4ed3-ae14-ee9baae24eb0" />
+<img width="680" height="1320" alt="Red cedar box w flowers in grass" src="https://github.com/user-attachments/assets/702a2827-af0e-4ed3-ae14-ee9baae24eb0" />
 
-<img width="680" height="1520" alt="Hanging planter in living room" src="https://github.com/user-attachments/assets/1bbe4877-b5b9-4ac5-90d1-ca91dac6d477" />
+<img width="680" height="1320" alt="Hanging planter in living room" src="https://github.com/user-attachments/assets/1bbe4877-b5b9-4ac5-90d1-ca91dac6d477" />
 
-<img width="890" height="1315" alt="3 tier box with herbs" src="https://github.com/user-attachments/assets/386a9235-e618-4e7c-84ad-6205d960a944" />
+<img width="890" height="1320" alt="3 tier box with herbs" src="https://github.com/user-attachments/assets/386a9235-e618-4e7c-84ad-6205d960a944" />
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
